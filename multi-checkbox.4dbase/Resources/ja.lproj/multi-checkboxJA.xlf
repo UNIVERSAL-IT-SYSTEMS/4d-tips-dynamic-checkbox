@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+<file datatype="x-STR#" original="undefined" product-version="v13" source-language="en-US" target-language="ja">
+<header>
+<note/>
+</header>
+<body>
+<group>
+
+<trans-unit resname="Format_Weekdays">
+    <target>月;火;水;木;金;土;日</target>
+</trans-unit>
+
+</group>
+</body>
+</file>
+</xliff>
